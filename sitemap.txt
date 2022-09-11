@@ -1,0 +1,6 @@
+http://example.com/archives/4a17b156.html
+http://example.com/archives/eb4aebd3.html
+http://example.com/tags/index.html
+http://example.com/categories/index.html
+http://example.com/
+http://example.com/tags/testPage/
