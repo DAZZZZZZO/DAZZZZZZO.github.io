@@ -1,3 +1,5 @@
+http://example.com/archives/cc13c4f6.html
+http://example.com/archives/7e6e1194.html
 http://example.com/archives/a13f4dfc.html
 http://example.com/archives/eb4aebd3.html
 http://example.com/archives/7f3b056.html
@@ -6,4 +8,6 @@ http://example.com/categories/index.html
 http://example.com/archives/4a17b156.html
 http://example.com/
 http://example.com/tags/testPage/
+http://example.com/tags/Java-%E5%AD%A6%E4%B9%A0/
 http://example.com/tags/%E7%AC%94%E8%AE%B0/
+http://example.com/tags/%E9%9B%85%E6%80%9D%EF%BC%8C-%E8%8B%B1%E8%AF%AD%EF%BC%8C-%E5%AD%A6%E4%B9%A0/
