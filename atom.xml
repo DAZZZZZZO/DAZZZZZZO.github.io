@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-09-16T03:04:37.575Z</updated>
+  <updated>2022-09-16T03:18:16.053Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,36 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>个人简历</title>
+    <link href="http://example.com/archives/e860cc2d.html"/>
+    <id>http://example.com/archives/e860cc2d.html</id>
+    <published>2022-09-16T03:06:14.000Z</published>
+    <updated>2022-09-16T03:18:16.053Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>个人简历</strong></p><p><strong>瞿志平</strong></p><p>女 | 2000 年5月<br>现居住于沈阳  |东北大学 本科<br>民族：蒙古族                        手机：17625839731<br>E-mail：<a href="mailto:1529786306@qq.com">1529786306@qq.com</a><br>求职状态:在校-正在找工作 </p><p><strong>自我介绍</strong></p><p>学习能力强，乐观开朗，抗压能力强，擅于人际交往。<br>在学校专业课c语言之余，了解python，并学习了Java、MySQL，并将持续深入学习，有毅力有恒心。<br>作为班干部、寝室长协调班内关系，与同学们和谐相处，举办各项活动 。</p><p><strong>教育经历</strong></p><p>2019.09 - 2023.07  东北大学  能源与动力工程   统招  本科</p><span id="more"></span><p><strong>求职意向</strong></p><p><strong>工作性质：</strong>   全职<br><strong>期望职业：</strong>   Java<br><strong>期望行业：</strong>   软件开发&#x2F;互联网<br><strong>工作地区：</strong>   上海，大连，沈阳<br><strong>期望月薪：</strong>    8000 - 20000元&#x2F;月</p><p><strong>工作经历</strong></p><p><strong>2020.09 – 至今</strong>   <strong>东北大学科研院成果转化办公室</strong>   <strong>办公室助理</strong><br>协助完成办公室任务，熟练掌握办公室软件</p><p><strong>2021.07 - 2021.08</strong>   <strong>南通敦强紧固件有限公司 （1月）</strong>  __质量测评员 | 4001-6000元&#x2F;月 __<br>汽车零部件生产线上的数控编程质检</p><p><strong>项目经验</strong><br> <strong>2019.06 - 2020.06</strong>  <strong>基于物联网的智能无人生产线系统研发（大创省级奖项）</strong><br>项目简介：以物联网为基础的，利用机械臂完成控制的一种生产装置 </p><p><strong>证书</strong></p><p>2019.11  学习标兵<br>2020.12  百强寝室长<br>2022.05  勤工助学优秀先进个人<br>2021.10  学业进步奖</p><p><strong>语言能力</strong>  英语： 读写能力 熟练 | 听说能力 熟练 </p><p><strong>专业资格证书</strong>    英语六级</p><p><strong>受到奖励</strong></p><p>2019年 学习标兵、百强寝室长<br>2020年 学业进步奖、百强寝室长、大创省级奖<br>2021年 勤工助学先进个人、百强寝室长</p><p><strong>社会实践</strong></p><p>南通敦强紧固件有限公司实习__2021.07 - 2021.08__<br>东北大学科研院成果转化办公室助理 <strong>2020.9-至今</strong><br>高中生家教 <strong>2019.09-2022.06</strong></p><p><strong>其它技能</strong><br>滑雪、健身</p><p><strong>个人爱好</strong><br>游泳、健身、滑雪、摄影、篮球</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;strong&gt;个人简历&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;瞿志平&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;女 | 2000 年5月&lt;br&gt;现居住于沈阳  |东北大学 本科&lt;br&gt;民族：蒙古族                        手机：17625839731&lt;br&gt;E-mail：&lt;a href=&quot;mailto:1529786306@qq.com&quot;&gt;1529786306@qq.com&lt;/a&gt;&lt;br&gt;求职状态:在校-正在找工作 &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;自我介绍&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;学习能力强，乐观开朗，抗压能力强，擅于人际交往。&lt;br&gt;在学校专业课c语言之余，了解python，并学习了Java、MySQL，并将持续深入学习，有毅力有恒心。&lt;br&gt;作为班干部、寝室长协调班内关系，与同学们和谐相处，举办各项活动 。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;教育经历&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2019.09 - 2023.07  东北大学  能源与动力工程   统招  本科&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="Dazo, 工作" scheme="http://example.com/tags/Dazo-%E5%B7%A5%E4%BD%9C/"/>
+    
+  </entry>
+  
+  <entry>
     <title>雅思口语</title>
     <link href="http://example.com/archives/cc13c4f6.html"/>
     <id>http://example.com/archives/cc13c4f6.html</id>
     <published>2022-09-16T03:03:41.000Z</published>
-    <updated>2022-09-16T03:04:37.575Z</updated>
+    <updated>2022-09-16T03:04:52.556Z</updated>
     
     <content type="html"><![CDATA[<h1 id="雅思口语"><a href="#雅思口语" class="headerlink" title="雅思口语"></a>雅思口语</h1><h2 id="Talk-about-your-free-time"><a href="#Talk-about-your-free-time" class="headerlink" title="Talk about your free time"></a>Talk about your free time</h2><h3 id="The-styles-of-hobbies"><a href="#The-styles-of-hobbies" class="headerlink" title="The styles of hobbies"></a>The styles of hobbies</h3><h4 id="Indoor-activities"><a href="#Indoor-activities" class="headerlink" title="Indoor activities"></a>Indoor activities</h4><p>Chilling out &#x2F;hanging out with friends</p><h4 id="outdoor-activities"><a href="#outdoor-activities" class="headerlink" title="outdoor activities"></a>outdoor activities</h4><p>traveling&#x2F; gardening &#x2F;aports</p><h4 id="collecting-thins"><a href="#collecting-thins" class="headerlink" title="collecting thins"></a>collecting thins</h4><p>stamps &#x2F;coins &#x2F;nfts&#x3D;non-fungible token(a unique item)</p><h4 id="Creative-activities"><a href="#Creative-activities" class="headerlink" title="Creative activities"></a>Creative activities</h4><p>playing a musical instrument &#x2F;paiting &#x2F;knitting &#x2F; taking photos</p><h3 id="Express"><a href="#Express" class="headerlink" title="Express"></a>Express</h3><span id="more"></span><ul><li>I get up to a lot of things &#x3D; do an activity</li><li>like doing</li></ul><p>&#x2F; to do 🡪 it`s a choice or habit</p><ul><li>I`m fond of&#x2F; into&#x2F; passionate about playing video games</li></ul><p>I like to dabble in cooking -&gt; to do sth casually, less seriously</p><p>I play the guitar but I am just an aficionado&#x2F; amateur</p><ul><li>I paint whenever I can &#x2F; as often as I can &#x2F;whenever I get a chance</li></ul><p>I don’t get round to painting as much as I would like</p><ul><li>I recently took up painting -&gt; start</li><li>I am new to it</li><li>I started painting a couple of years ago</li></ul><p>I decided to have a go at painting -&gt; to try sth new</p><p>I decided to try my hand at painting</p><ul><li>I`ve been playing football for as long as I can remenber</li></ul><p>I`ve been painting for donkey`s years -&gt; for a long time</p>]]></content>
     
